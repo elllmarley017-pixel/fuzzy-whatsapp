@@ -1,18 +1,18 @@
 const fs = require("fs");
 
-global.owner = "6281214774902";
+global.owner = "628xxxx";
 global.namaOwner = "HanzTenzu";
 global.prefix = ".";
 global.botName = "hybrid-AI";
-global.pairingNumber = "6285167570216";
+global.pairingNumber = "628xxx";
 
-global.idSaluran = "120363402625644245@newsletter";
+global.idSaluran = "1203634xxxx@newsletter";
 global.namaSaluran = "Powered by TenzuRevols";
-global.linkSaluran = "https://whatsapp.com/channel/0029VbBouHp0rGiGXagM0f2e";
+global.linkSaluran = "https://whatsapp.com/channel/xxxx";
 global.thumbnailmenu = "https://img2.pixhost.to/images/8140/730305192_image.jpg";
 global.paymentImage = "https://files.catbox.moe/z3pr3c.png";
-global.dana = "089691596048";
-global.gopay = "0895393210176";
+global.dana = "08xxxx";
+global.gopay = "08xxxx";
 global.ovo = "-";
 
 global.mess = {
